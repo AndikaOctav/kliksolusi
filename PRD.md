@@ -30,3 +30,6 @@ Dokumentasi resmi platform **KlikSolusi** berbasis web telah disusun secara modu
 
 8. 🧪 **[docs/demo_scenario.md](file:///c:/kliksolusi/docs/demo_scenario.md)**  
    *Skenario Pengujian Penerimaan Pengguna (UAT) End-to-End dengan 4 Karakter Persona (Siti Aminah, Pak Joko, Relawan Rian, Admin Bambang) yang mencakup 6 skenario nyata: pencarian mandiri sukses, voting feedback, pengajuan tiket relawan, respon relawan di portal, validasi tuntas, dan monitoring analitik dashboard admin.*
+
+9. 🎨 **[docs/landing_page_kliksolusi.figcraft](file:///c:/kliksolusi/docs/landing_page_kliksolusi.figcraft)**  
+   *Berkas Desain Master FigCraft berisi 12 Frame Wireframe terpadu (Baris 1: Alur Navigasi Publik, Baris 2: Alur Konsultasi & FAQ, Baris 3: Portal Admin & Relawan).*
